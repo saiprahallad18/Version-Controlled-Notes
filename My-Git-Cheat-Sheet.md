@@ -1,12 +1,1 @@
-"# My Git Cheat Sheet" 
-"" 
-"Common Git commands and what they do:" 
-"" 
-"- git status - shows which files have changed" 
-"- git add <file> - stages changes for commit" 
-"- git commit -m \"message\" - saves your changes with a message" 
-"- git branch - lists all branches" 
-"- git checkout -b <branch> - creates a new branch and switches to it" 
-"- git push - sends your commits to GitHub" 
-"- git pull - updates your local repo with GitHub changes" 
-"- git merge <branch> - merges another branch into your current one" 
+My Git Cheat Sheet
